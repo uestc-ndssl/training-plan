@@ -15,6 +15,7 @@
 - [2023-朱世龙-C++-Primer-Chapter-10](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%2010%20%E6%B3%9B%E5%9E%8B%E7%AE%97%E6%B3%95.md)：泛型算法
 - [2023-王澳-C++-Primer-Chapter-11](https://github.com/WangAo-0/training-plan/blob/dev/cpp/C11%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8PPT/%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8.pptx)：关联容器
 - [2023-陈宁杰-C++-Primer-Chapter-12](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/ppt/%E7%AC%AC12%E7%AB%A0%20ppt.md)：动态内存
+
 ## B+Tree 报告
 
 ## B+Tree 代码
@@ -100,13 +101,17 @@
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/%E7%AC%AC12%E7%AB%A0%20%E5%8A%A8%E6%80%81%E5%86%85%E5%AD%98.md)
 
 ### Chapter 13. Copy Control
+
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/%E7%AC%AC13%E7%AB%A0%20%E6%8B%B7%E8%B4%9D%E3%80%81%E8%B5%8B%E5%80%BC%E4%B8%8E%E9%94%80%E6%AF%81.md)
 
 ### Chapter 14. Overloaded Operations and Conversions
+
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/%E7%AC%AC14%E7%AB%A0%20%E9%87%8D%E8%BD%BD%E8%BF%90%E7%AE%97%E4%B8%8E%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
 ### Chapter 15. Object-Oriented Programming
+
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/%E7%AC%AC15%E7%AB%A0%20%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md)
 
 ### Chapter 16. Templates and Generic Programming
+
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/%E7%AC%AC16%E7%AB%A0%20%E6%A8%A1%E6%9D%BF%E4%B8%8E%E6%B3%9B%E5%9E%8B%E7%BC%96%E7%A8%8B.md)
