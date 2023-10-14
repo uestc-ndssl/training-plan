@@ -9,12 +9,14 @@
 
 - [2023-陈宁杰-C++-Primer-Chapter-1](https://github.com/ChenNingjie1218/training-plan/blob/a82fe10515c20e095f91278429fac824548cb989/cpp/ppt/%E7%AC%AC%E4%B8%80%E7%AB%A0%E5%BC%80%E5%A7%8B.pdf)：C/C++ I/O 缓冲区设计。
 - [2023-李禹霖-C++-Primer-Chapter-2](https://github.com/dcdc831/CppNotes/blob/93907dc83db9044ad5d10aa66b59f28c1a92f13c/ppt/2023-%E6%9D%8E%E7%A6%B9%E9%9C%96-C%2B%2B-Primer-Chapter-2.pptx) ：变量和数据类型
+- [2023-唐泽人-C++-Primer-Chapter-4](https://github.com/juggernaut16320/Note/blob/fa09c0ec0463c77ba524fb5ac9448ba7c3278fe4/cpp/CH4.pdf) : 表达式
 - [2023-宛浩宇-C++-Primer-Chapter-5](https://github.com/whyeinstein/ndssl_training_notes/blob/main/report/%E8%AF%AD%E5%8F%A5.pptx)：Header guards and #pragma once
 - [2023-吴征-C++-Primer-Chapter-9](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/C9%20%E9%A1%BA%E5%BA%8F%E5%AE%B9%E5%99%A8%20Pre.md)：顺序容器
 - [2023-朱世龙-C++-Primer-Chapter-10](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%2010%20%E6%B3%9B%E5%9E%8B%E7%AE%97%E6%B3%95.md)：泛型算法
 - [2023-王澳-C++-Primer-Chapter-11](https://github.com/WangAo-0/training-plan/blob/dev/cpp/C11%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8PPT/%E5%85%B3%E8%81%94%E5%AE%B9%E5%99%A8.pptx)：关联容器
 - [2023-陈宁杰-C++-Primer-Chapter-12](https://github.com/ChenNingjie1218/training-plan/blob/MyNote/cpp/ppt/%E7%AC%AC12%E7%AB%A0%20ppt.md)：动态内存
 - [2023-刘芷溢-C++-Primer-Chapter-13](https://github.com/tom-jerr/Reports/blob/master/ppt/%E6%8B%B7%E8%B4%9D%E6%8E%A7%E5%88%B6.pptx)：拷贝控制
+- [2023-唐泽人-C++-Primer-Chapter-14](https://github.com/juggernaut16320/Note/blob/fa09c0ec0463c77ba524fb5ac9448ba7c3278fe4/cpp/CH14.pdf) : 重载运算与类型转换
 
 ## B+Tree 报告
 
@@ -35,6 +37,7 @@
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C1%20%E5%BC%80%E5%A7%8B.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C1%E5%BC%80%E5%A7%8B.md)
 - [2023-朱世龙](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%201%20%E5%BC%80%E5%A7%8B.md)
+- [2023-唐泽人](https://github.com/juggernaut16320/Note/blob/fa09c0ec0463c77ba524fb5ac9448ba7c3278fe4/cpp/Chapter1.md)
 
 ### Chapter 2. Variables and Basic Types
 
@@ -44,6 +47,7 @@
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C2%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
 - [2023-朱世龙](https://github.com/zhusl-323/Cpp-Primer/blob/main/note/Chapter%202%20%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
 - [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/2_%E5%8F%98%E9%87%8F%E5%92%8C%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B.md)
+- [2023-唐泽人](https://github.com/juggernaut16320/Note/blob/fa09c0ec0463c77ba524fb5ac9448ba7c3278fe4/cpp/Chapter2.md)
 
 ### Chapter 3. Strings, Vectors, and Arrays
 
@@ -52,6 +56,7 @@
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C3%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E3%80%81%E5%90%91%E9%87%8F%E5%92%8C%E6%95%B0%E7%BB%84.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C3%E5%AD%97%E7%AC%A6%E4%B8%B2%E3%80%81%E5%90%91%E9%87%8F%E5%92%8C%E6%95%B0%E7%BB%84.md)
 - [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/3_%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%90%91%E9%87%8F%E6%95%B0%E7%BB%84.md)
+- [2023-唐泽人](https://github.com/juggernaut16320/Note/blob/fa09c0ec0463c77ba524fb5ac9448ba7c3278fe4/cpp/Chapter3.md)
 
 ### Chapter 4. Expressions
 
@@ -60,6 +65,7 @@
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C4%20%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C4%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
 - [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/4_%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+- [2023-唐泽人](https://github.com/juggernaut16320/Note/blob/fa09c0ec0463c77ba524fb5ac9448ba7c3278fe4/cpp/Chapter4.md)
 
 ### Chapter 5. Statements
 
@@ -67,7 +73,8 @@
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/6620d8704d9b7f2436026c1e615ce9080b6e315d/cpp/%E7%AC%AC5%E7%AB%A0%20%E8%AF%AD%E5%8F%A5%20.md)
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C5%20%E8%AF%AD%E5%8F%A5.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C5%E8%AF%AD%E5%8F%A5.md)
-- [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/5_%E8%AF%AD%E5%8F%A5.md)  
+- [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/5_%E8%AF%AD%E5%8F%A5.md)
+- [2023-唐泽人](https://github.com/juggernaut16320/Note/blob/fa09c0ec0463c77ba524fb5ac9448ba7c3278fe4/cpp/Chapter5.md)
 
 ### Chapter 6. Functions
 
@@ -75,14 +82,16 @@
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/6620d8704d9b7f2436026c1e615ce9080b6e315d/cpp/%E7%AC%AC6%E7%AB%A0%20%E5%87%BD%E6%95%B0.md)
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C6%20%E5%87%BD%E6%95%B0.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C6%E5%87%BD%E6%95%B0.md)
-- [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/6_%E5%87%BD%E6%95%B0.md)  
+- [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/6_%E5%87%BD%E6%95%B0.md)
+- [2023-唐泽人](https://github.com/juggernaut16320/Note/blob/fa09c0ec0463c77ba524fb5ac9448ba7c3278fe4/cpp/Chapter6.md)
 ### Chapter 7. Classes
 
 - [2023-宛浩宇](https://github.com/whyeinstein/ndssl_training_notes/blob/main/C%2B%2B/C7%20%E7%B1%BB.md)
 - [2023-陈宁杰](https://github.com/ChenNingjie1218/training-plan/blob/6620d8704d9b7f2436026c1e615ce9080b6e315d/cpp/%E7%AC%AC7%E7%AB%A0%20%E7%B1%BB.md)
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C7%20%E7%B1%BB.md)
 - [2023-王澳](https://github.com/WangAo-0/training-plan/blob/e508bae83eb33a30b78e5e220c9da2e82f51893d/cpp/Note_C7%E7%B1%BB.md)
-- [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/7_%E7%B1%BB.md)    
+- [2023-刘芷溢](https://github.com/tom-jerr/Reports/blob/master/7_%E7%B1%BB.md)
+- [2023-唐泽人](https://github.com/juggernaut16320/Note/blob/fa09c0ec0463c77ba524fb5ac9448ba7c3278fe4/cpp/Chapter7.md)
 ### Chapter 8. The IO Library
 
 - [2023-吴征](https://github.com/Qianji-wz/cppMarkdown/blob/a91627bf2f739aee39817d58f57a97e620942223/cpp/C8%20%E6%A0%87%E5%87%86IO%E5%BA%93.md)
